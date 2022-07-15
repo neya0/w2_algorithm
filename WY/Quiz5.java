@@ -26,7 +26,5 @@ public class Quiz5 {
         Quiz5 dap = new Quiz5();
         int cal = dap.solution("0123");
         System.out.println(cal);
-
-
     }
 }
