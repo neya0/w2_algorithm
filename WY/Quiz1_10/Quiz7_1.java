@@ -1,3 +1,5 @@
+package Quiz1_10;
+
 public class Quiz7_1 {
 
         public int solution(int[] absolutes, boolean[] signs) {

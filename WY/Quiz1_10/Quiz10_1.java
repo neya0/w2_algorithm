@@ -1,3 +1,5 @@
+package Quiz1_10;
+
 public class Quiz10_1 {
     
     public int[][] solution(int[][] arr1, int[][] arr2) {
