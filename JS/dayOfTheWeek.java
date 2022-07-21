@@ -22,12 +22,7 @@ public class dayOfTheWeek {
                 totalDays += 30;
             }
         }
-
-        System.out.println(totalDays);
-
         int dayName = (totalDays + b) % 7;
-
-        System.out.println(dayName);
 
         answer = day[dayName];
 
