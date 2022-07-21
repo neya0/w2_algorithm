@@ -1,4 +1,4 @@
-//문자열 s를 숫자로 변환한 결과를 반환하는 함수, solution을 완성하세요.
+package Quiz1_10;//문자열 s를 숫자로 변환한 결과를 반환하는 함수, solution을 완성하세요.
 
 //제한 조건
 //s의 길이는 1 이상 5이하입니다.
@@ -24,7 +24,7 @@ public class Quiz5 {
 
     public static void main(String[] args) {
         Quiz5 dap = new Quiz5();
-        int cal = dap.solution("0123");
+        int cal = dap.solution("-1234");
         System.out.println(cal);
     }
 }

@@ -1,3 +1,5 @@
+package Quiz1_10;
+
 public class Quiz4_1 {
 
     public long solution(int a, int b) { //파라미터 값을 받아서
